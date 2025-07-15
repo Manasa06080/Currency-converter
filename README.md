@@ -11,8 +11,8 @@
 - Uses the free Frankfurter API
 
 ###Technologies used
--> HTML
--> CSS
--> JS
--> API(https://api.frankfurter.app/latest?)
--> Flags from (https://flagsapi.com)
+- HTML
+- CSS
+- JS
+- API(https://api.frankfurter.app/latest?)
+- Flags from (https://flagsapi.com)
